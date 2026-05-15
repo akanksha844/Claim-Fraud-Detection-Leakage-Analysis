@@ -1,0 +1,501 @@
+customer_id,age,gender,city,income_band
+CUST0001,56,Male,Jaipur,High
+CUST0002,69,Female,Lucknow,Middle
+CUST0003,46,Female,Mumbai,Upper Middle
+CUST0004,32,Female,Mumbai,High
+CUST0005,60,Male,Mumbai,Upper Middle
+CUST0006,25,Male,Pune,Low
+CUST0007,38,Female,Pune,Middle
+CUST0008,56,Female,Bengaluru,Middle
+CUST0009,36,Male,Bengaluru,Middle
+CUST0010,40,Female,Mumbai,Upper Middle
+CUST0011,28,Female,Hyderabad,High
+CUST0012,28,Female,Delhi,High
+CUST0013,41,Male,Pune,Middle
+CUST0014,70,Male,Hyderabad,Low
+CUST0015,53,Male,Chennai,High
+CUST0016,57,Female,Pune,Upper Middle
+CUST0017,41,Female,Pune,Low
+CUST0018,20,Female,Bengaluru,High
+CUST0019,39,Male,Delhi,Upper Middle
+CUST0020,70,Female,Delhi,Middle
+CUST0021,19,Female,Jaipur,Middle
+CUST0022,41,Female,Lucknow,Middle
+CUST0023,61,Female,Lucknow,Low
+CUST0024,47,Male,Lucknow,Middle
+CUST0025,55,Male,Lucknow,Upper Middle
+CUST0026,19,Female,Chennai,Low
+CUST0027,38,Male,Chennai,Middle
+CUST0028,50,Male,Pune,Middle
+CUST0029,29,Female,Mumbai,Middle
+CUST0030,39,Female,Bengaluru,High
+CUST0031,61,Male,Bengaluru,Middle
+CUST0032,42,Female,Lucknow,Middle
+CUST0033,66,Male,Pune,Upper Middle
+CUST0034,44,Female,Jaipur,Middle
+CUST0035,59,Male,Hyderabad,Low
+CUST0036,45,Female,Mumbai,Middle
+CUST0037,33,Male,Pune,Low
+CUST0038,32,Male,Mumbai,Low
+CUST0039,64,Male,Mumbai,Middle
+CUST0040,68,Female,Mumbai,Middle
+CUST0041,61,Male,Pune,High
+CUST0042,72,Male,Lucknow,Middle
+CUST0043,69,Female,Bengaluru,Middle
+CUST0044,74,Female,Bengaluru,Middle
+CUST0045,20,Male,Lucknow,Low
+CUST0046,54,Male,Mumbai,Upper Middle
+CUST0047,68,Female,Hyderabad,Low
+CUST0048,24,Female,Delhi,High
+CUST0049,38,Female,Pune,Low
+CUST0050,26,Female,Delhi,Middle
+CUST0051,56,Female,Jaipur,Low
+CUST0052,35,Male,Lucknow,High
+CUST0053,21,Female,Hyderabad,Middle
+CUST0054,42,Male,Pune,Middle
+CUST0055,31,Male,Lucknow,Low
+CUST0056,67,Male,Mumbai,Upper Middle
+CUST0057,26,Female,Bengaluru,Low
+CUST0058,43,Male,Delhi,Upper Middle
+CUST0059,70,Male,Chennai,Low
+CUST0060,19,Female,Chennai,Low
+CUST0061,37,Male,Hyderabad,Low
+CUST0062,45,Male,Mumbai,Middle
+CUST0063,64,Female,Jaipur,Middle
+CUST0064,24,Male,Delhi,Low
+CUST0065,61,Male,Mumbai,Upper Middle
+CUST0066,25,Male,Delhi,Middle
+CUST0067,64,Female,Hyderabad,Middle
+CUST0068,52,Female,Hyderabad,Middle
+CUST0069,31,Female,Jaipur,Middle
+CUST0070,34,Male,Chennai,Middle
+CUST0071,53,Male,Mumbai,Low
+CUST0072,67,Female,Pune,Low
+CUST0073,57,Male,Chennai,Upper Middle
+CUST0074,21,Male,Mumbai,High
+CUST0075,19,Female,Chennai,Middle
+CUST0076,23,Female,Pune,Middle
+CUST0077,71,Male,Bengaluru,Middle
+CUST0078,59,Male,Bengaluru,Middle
+CUST0079,21,Male,Jaipur,Low
+CUST0080,71,Female,Bengaluru,Low
+CUST0081,46,Female,Bengaluru,Upper Middle
+CUST0082,35,Female,Lucknow,Upper Middle
+CUST0083,43,Female,Delhi,Low
+CUST0084,61,Male,Lucknow,Low
+CUST0085,51,Female,Lucknow,Low
+CUST0086,27,Female,Jaipur,Upper Middle
+CUST0087,53,Female,Lucknow,Low
+CUST0088,31,Female,Bengaluru,Low
+CUST0089,48,Female,Pune,Upper Middle
+CUST0090,65,Male,Jaipur,Low
+CUST0091,32,Male,Jaipur,Upper Middle
+CUST0092,25,Female,Hyderabad,Low
+CUST0093,31,Male,Jaipur,Low
+CUST0094,40,Female,Hyderabad,Low
+CUST0095,74,Female,Jaipur,Upper Middle
+CUST0096,57,Male,Delhi,Upper Middle
+CUST0097,38,Male,Bengaluru,Upper Middle
+CUST0098,33,Female,Jaipur,Middle
+CUST0099,62,Female,Bengaluru,Upper Middle
+CUST0100,35,Female,Bengaluru,Low
+CUST0101,64,Male,Chennai,Middle
+CUST0102,70,Female,Jaipur,Upper Middle
+CUST0103,41,Female,Mumbai,Low
+CUST0104,43,Female,Chennai,Low
+CUST0105,42,Male,Mumbai,Low
+CUST0106,62,Female,Bengaluru,Low
+CUST0107,58,Female,Bengaluru,Low
+CUST0108,46,Male,Chennai,Middle
+CUST0109,32,Female,Chennai,Middle
+CUST0110,62,Female,Mumbai,Upper Middle
+CUST0111,18,Male,Hyderabad,Upper Middle
+CUST0112,42,Female,Mumbai,Middle
+CUST0113,24,Male,Chennai,Middle
+CUST0114,26,Male,Pune,Middle
+CUST0115,41,Female,Chennai,Middle
+CUST0116,18,Female,Pune,Middle
+CUST0117,61,Female,Delhi,Middle
+CUST0118,25,Female,Chennai,Middle
+CUST0119,41,Male,Delhi,Middle
+CUST0120,28,Female,Hyderabad,Middle
+CUST0121,68,Male,Mumbai,Middle
+CUST0122,34,Female,Pune,High
+CUST0123,25,Female,Mumbai,Upper Middle
+CUST0124,52,Female,Delhi,Low
+CUST0125,52,Male,Pune,Upper Middle
+CUST0126,50,Female,Mumbai,Middle
+CUST0127,22,Female,Chennai,Upper Middle
+CUST0128,59,Female,Bengaluru,Upper Middle
+CUST0129,56,Female,Delhi,Middle
+CUST0130,58,Male,Mumbai,Low
+CUST0131,45,Female,Delhi,Middle
+CUST0132,24,Male,Lucknow,Middle
+CUST0133,26,Male,Delhi,Middle
+CUST0134,25,Male,Pune,Middle
+CUST0135,29,Male,Lucknow,Low
+CUST0136,51,Male,Jaipur,Upper Middle
+CUST0137,50,Male,Pune,High
+CUST0138,65,Female,Bengaluru,Middle
+CUST0139,72,Male,Lucknow,Low
+CUST0140,40,Male,Jaipur,Middle
+CUST0141,41,Male,Chennai,Low
+CUST0142,54,Female,Delhi,High
+CUST0143,52,Female,Mumbai,Low
+CUST0144,61,Male,Hyderabad,Middle
+CUST0145,57,Female,Delhi,Middle
+CUST0146,39,Male,Jaipur,Middle
+CUST0147,44,Male,Delhi,Upper Middle
+CUST0148,52,Female,Bengaluru,Upper Middle
+CUST0149,18,Male,Chennai,Low
+CUST0150,52,Female,Hyderabad,Low
+CUST0151,54,Female,Lucknow,Low
+CUST0152,64,Male,Lucknow,High
+CUST0153,31,Male,Lucknow,Upper Middle
+CUST0154,20,Female,Jaipur,Middle
+CUST0155,18,Male,Pune,Middle
+CUST0156,22,Male,Pune,Upper Middle
+CUST0157,43,Male,Mumbai,Low
+CUST0158,72,Female,Hyderabad,High
+CUST0159,31,Female,Lucknow,Middle
+CUST0160,56,Male,Pune,Middle
+CUST0161,44,Female,Jaipur,Middle
+CUST0162,26,Female,Mumbai,Low
+CUST0163,32,Female,Chennai,Low
+CUST0164,32,Female,Mumbai,Upper Middle
+CUST0165,43,Female,Pune,Low
+CUST0166,59,Male,Bengaluru,Middle
+CUST0167,30,Male,Jaipur,Low
+CUST0168,68,Male,Bengaluru,Middle
+CUST0169,49,Female,Lucknow,Middle
+CUST0170,56,Female,Bengaluru,Middle
+CUST0171,66,Male,Lucknow,Upper Middle
+CUST0172,69,Female,Lucknow,Middle
+CUST0173,49,Male,Pune,Middle
+CUST0174,21,Male,Bengaluru,Middle
+CUST0175,47,Male,Lucknow,Upper Middle
+CUST0176,54,Female,Hyderabad,High
+CUST0177,40,Female,Chennai,Upper Middle
+CUST0178,56,Male,Mumbai,Low
+CUST0179,62,Male,Mumbai,Low
+CUST0180,32,Male,Pune,Middle
+CUST0181,60,Male,Bengaluru,Middle
+CUST0182,46,Female,Bengaluru,Low
+CUST0183,53,Female,Lucknow,Middle
+CUST0184,30,Male,Jaipur,Middle
+CUST0185,49,Male,Delhi,Middle
+CUST0186,24,Female,Lucknow,Upper Middle
+CUST0187,68,Female,Chennai,Low
+CUST0188,39,Male,Hyderabad,Low
+CUST0189,45,Male,Mumbai,Upper Middle
+CUST0190,19,Male,Lucknow,Middle
+CUST0191,59,Female,Delhi,Upper Middle
+CUST0192,62,Female,Delhi,Middle
+CUST0193,74,Female,Lucknow,Low
+CUST0194,70,Male,Pune,Upper Middle
+CUST0195,23,Male,Mumbai,Upper Middle
+CUST0196,45,Female,Pune,Upper Middle
+CUST0197,45,Female,Hyderabad,Middle
+CUST0198,61,Male,Delhi,Middle
+CUST0199,61,Female,Delhi,Middle
+CUST0200,37,Female,Chennai,Low
+CUST0201,47,Male,Hyderabad,High
+CUST0202,28,Female,Delhi,Low
+CUST0203,72,Male,Hyderabad,High
+CUST0204,45,Male,Mumbai,Middle
+CUST0205,42,Male,Bengaluru,Low
+CUST0206,56,Male,Delhi,Middle
+CUST0207,50,Male,Chennai,Upper Middle
+CUST0208,18,Male,Mumbai,Upper Middle
+CUST0209,74,Male,Lucknow,Upper Middle
+CUST0210,44,Female,Hyderabad,Upper Middle
+CUST0211,74,Male,Lucknow,Upper Middle
+CUST0212,69,Male,Pune,Upper Middle
+CUST0213,30,Female,Mumbai,Low
+CUST0214,58,Female,Lucknow,Middle
+CUST0215,20,Female,Jaipur,Low
+CUST0216,56,Male,Jaipur,High
+CUST0217,23,Female,Delhi,High
+CUST0218,25,Male,Hyderabad,Low
+CUST0219,44,Male,Bengaluru,Upper Middle
+CUST0220,26,Male,Mumbai,High
+CUST0221,54,Male,Delhi,Low
+CUST0222,50,Female,Chennai,Middle
+CUST0223,68,Female,Pune,High
+CUST0224,59,Male,Hyderabad,Low
+CUST0225,61,Male,Mumbai,Upper Middle
+CUST0226,41,Male,Jaipur,Middle
+CUST0227,32,Female,Mumbai,High
+CUST0228,71,Male,Bengaluru,High
+CUST0229,49,Male,Jaipur,High
+CUST0230,49,Female,Bengaluru,Middle
+CUST0231,41,Female,Chennai,Upper Middle
+CUST0232,58,Male,Pune,Upper Middle
+CUST0233,69,Female,Chennai,Middle
+CUST0234,66,Female,Delhi,Upper Middle
+CUST0235,66,Male,Delhi,Low
+CUST0236,69,Female,Chennai,Middle
+CUST0237,29,Male,Pune,Low
+CUST0238,56,Female,Chennai,Low
+CUST0239,19,Male,Pune,Low
+CUST0240,20,Male,Pune,Upper Middle
+CUST0241,66,Male,Lucknow,Middle
+CUST0242,54,Female,Jaipur,Upper Middle
+CUST0243,66,Male,Hyderabad,Low
+CUST0244,73,Female,Pune,Middle
+CUST0245,34,Male,Bengaluru,Middle
+CUST0246,66,Male,Pune,Upper Middle
+CUST0247,19,Female,Pune,Middle
+CUST0248,19,Male,Pune,Middle
+CUST0249,45,Male,Lucknow,Upper Middle
+CUST0250,71,Female,Jaipur,Middle
+CUST0251,40,Male,Lucknow,Low
+CUST0252,54,Male,Delhi,Low
+CUST0253,49,Male,Lucknow,Upper Middle
+CUST0254,50,Male,Bengaluru,Low
+CUST0255,18,Female,Bengaluru,Upper Middle
+CUST0256,36,Female,Lucknow,Middle
+CUST0257,19,Male,Jaipur,High
+CUST0258,70,Female,Chennai,Upper Middle
+CUST0259,61,Male,Hyderabad,High
+CUST0260,43,Female,Jaipur,Middle
+CUST0261,49,Male,Lucknow,Upper Middle
+CUST0262,23,Male,Pune,Middle
+CUST0263,49,Male,Mumbai,Middle
+CUST0264,72,Male,Hyderabad,Middle
+CUST0265,21,Male,Hyderabad,Upper Middle
+CUST0266,72,Male,Bengaluru,High
+CUST0267,28,Female,Hyderabad,Upper Middle
+CUST0268,73,Male,Lucknow,Middle
+CUST0269,34,Female,Pune,Middle
+CUST0270,55,Male,Pune,Upper Middle
+CUST0271,41,Female,Delhi,Low
+CUST0272,22,Female,Pune,Low
+CUST0273,69,Female,Jaipur,Middle
+CUST0274,51,Male,Pune,Middle
+CUST0275,23,Male,Bengaluru,Middle
+CUST0276,39,Female,Pune,Low
+CUST0277,28,Male,Delhi,Low
+CUST0278,65,Female,Mumbai,Low
+CUST0279,33,Male,Lucknow,High
+CUST0280,50,Female,Bengaluru,Middle
+CUST0281,26,Female,Jaipur,Middle
+CUST0282,23,Male,Mumbai,Upper Middle
+CUST0283,33,Female,Bengaluru,Low
+CUST0284,46,Male,Chennai,High
+CUST0285,20,Female,Hyderabad,Upper Middle
+CUST0286,37,Female,Chennai,Low
+CUST0287,53,Male,Pune,Middle
+CUST0288,36,Male,Mumbai,Upper Middle
+CUST0289,43,Male,Pune,High
+CUST0290,20,Female,Hyderabad,Middle
+CUST0291,36,Male,Bengaluru,Middle
+CUST0292,37,Female,Hyderabad,Low
+CUST0293,49,Female,Delhi,High
+CUST0294,24,Male,Hyderabad,Low
+CUST0295,69,Male,Delhi,High
+CUST0296,58,Female,Hyderabad,Middle
+CUST0297,50,Female,Lucknow,Middle
+CUST0298,57,Male,Delhi,Middle
+CUST0299,56,Male,Mumbai,Low
+CUST0300,35,Male,Pune,Low
+CUST0301,57,Male,Jaipur,Low
+CUST0302,18,Male,Pune,Low
+CUST0303,28,Female,Chennai,Upper Middle
+CUST0304,45,Female,Pune,Middle
+CUST0305,74,Female,Bengaluru,Low
+CUST0306,42,Female,Lucknow,High
+CUST0307,67,Male,Hyderabad,Upper Middle
+CUST0308,40,Male,Chennai,High
+CUST0309,48,Male,Bengaluru,High
+CUST0310,47,Female,Bengaluru,Low
+CUST0311,59,Female,Delhi,Middle
+CUST0312,52,Male,Pune,Upper Middle
+CUST0313,24,Male,Mumbai,Upper Middle
+CUST0314,33,Female,Jaipur,Low
+CUST0315,43,Female,Mumbai,Upper Middle
+CUST0316,65,Male,Chennai,Low
+CUST0317,74,Male,Lucknow,Low
+CUST0318,69,Female,Mumbai,Middle
+CUST0319,66,Male,Hyderabad,Middle
+CUST0320,19,Male,Mumbai,Middle
+CUST0321,18,Male,Chennai,Low
+CUST0322,65,Female,Jaipur,Upper Middle
+CUST0323,29,Female,Mumbai,Middle
+CUST0324,22,Female,Hyderabad,Low
+CUST0325,54,Female,Delhi,Upper Middle
+CUST0326,49,Female,Lucknow,High
+CUST0327,72,Female,Chennai,Upper Middle
+CUST0328,26,Female,Delhi,Upper Middle
+CUST0329,58,Male,Delhi,Upper Middle
+CUST0330,52,Male,Delhi,Middle
+CUST0331,36,Male,Bengaluru,Low
+CUST0332,65,Male,Lucknow,Middle
+CUST0333,33,Male,Jaipur,Middle
+CUST0334,20,Male,Pune,Middle
+CUST0335,37,Male,Lucknow,Upper Middle
+CUST0336,41,Female,Bengaluru,Middle
+CUST0337,71,Female,Pune,Low
+CUST0338,73,Male,Lucknow,Low
+CUST0339,50,Male,Delhi,Upper Middle
+CUST0340,41,Female,Chennai,Low
+CUST0341,69,Male,Pune,Upper Middle
+CUST0342,28,Male,Hyderabad,Middle
+CUST0343,66,Female,Hyderabad,Middle
+CUST0344,25,Male,Mumbai,Middle
+CUST0345,53,Female,Pune,Upper Middle
+CUST0346,55,Male,Chennai,Middle
+CUST0347,57,Female,Jaipur,Upper Middle
+CUST0348,37,Female,Bengaluru,Middle
+CUST0349,52,Female,Delhi,Middle
+CUST0350,65,Male,Mumbai,Upper Middle
+CUST0351,42,Female,Hyderabad,Upper Middle
+CUST0352,52,Male,Bengaluru,Upper Middle
+CUST0353,42,Male,Bengaluru,Upper Middle
+CUST0354,46,Male,Delhi,Upper Middle
+CUST0355,35,Male,Jaipur,Upper Middle
+CUST0356,63,Female,Jaipur,Upper Middle
+CUST0357,35,Female,Pune,Upper Middle
+CUST0358,19,Male,Hyderabad,Upper Middle
+CUST0359,71,Male,Jaipur,Middle
+CUST0360,52,Female,Chennai,Upper Middle
+CUST0361,33,Male,Jaipur,Low
+CUST0362,58,Female,Bengaluru,Upper Middle
+CUST0363,53,Male,Delhi,Upper Middle
+CUST0364,50,Male,Chennai,Low
+CUST0365,21,Female,Pune,Upper Middle
+CUST0366,50,Male,Hyderabad,Low
+CUST0367,31,Female,Pune,Middle
+CUST0368,38,Male,Bengaluru,Upper Middle
+CUST0369,65,Male,Chennai,Low
+CUST0370,37,Male,Chennai,Upper Middle
+CUST0371,73,Female,Chennai,Upper Middle
+CUST0372,25,Male,Bengaluru,Middle
+CUST0373,24,Male,Bengaluru,Low
+CUST0374,20,Male,Pune,Middle
+CUST0375,34,Male,Mumbai,Middle
+CUST0376,50,Female,Pune,High
+CUST0377,65,Female,Hyderabad,Middle
+CUST0378,29,Male,Delhi,Middle
+CUST0379,68,Female,Chennai,Middle
+CUST0380,39,Male,Mumbai,Middle
+CUST0381,72,Male,Delhi,Upper Middle
+CUST0382,39,Male,Mumbai,Low
+CUST0383,63,Female,Jaipur,Upper Middle
+CUST0384,47,Female,Jaipur,Middle
+CUST0385,55,Female,Lucknow,High
+CUST0386,55,Female,Jaipur,Middle
+CUST0387,62,Female,Pune,Middle
+CUST0388,68,Female,Jaipur,High
+CUST0389,71,Female,Bengaluru,Low
+CUST0390,25,Female,Chennai,High
+CUST0391,44,Female,Pune,Upper Middle
+CUST0392,44,Male,Delhi,Low
+CUST0393,51,Female,Lucknow,Middle
+CUST0394,38,Female,Lucknow,Upper Middle
+CUST0395,47,Female,Lucknow,Low
+CUST0396,50,Female,Delhi,Middle
+CUST0397,45,Female,Delhi,Middle
+CUST0398,64,Female,Delhi,Middle
+CUST0399,50,Female,Delhi,Low
+CUST0400,22,Female,Lucknow,Upper Middle
+CUST0401,65,Female,Lucknow,High
+CUST0402,36,Female,Mumbai,High
+CUST0403,21,Female,Pune,Upper Middle
+CUST0404,52,Male,Chennai,Low
+CUST0405,66,Male,Jaipur,Upper Middle
+CUST0406,34,Female,Jaipur,Low
+CUST0407,61,Female,Bengaluru,Low
+CUST0408,45,Male,Lucknow,Middle
+CUST0409,47,Female,Bengaluru,Middle
+CUST0410,46,Male,Pune,Upper Middle
+CUST0411,63,Male,Pune,Upper Middle
+CUST0412,70,Male,Bengaluru,Middle
+CUST0413,23,Male,Lucknow,Middle
+CUST0414,52,Male,Bengaluru,High
+CUST0415,58,Female,Jaipur,Middle
+CUST0416,54,Male,Mumbai,Middle
+CUST0417,41,Female,Jaipur,Low
+CUST0418,46,Female,Hyderabad,Upper Middle
+CUST0419,66,Male,Lucknow,Upper Middle
+CUST0420,63,Male,Lucknow,Low
+CUST0421,70,Female,Chennai,Low
+CUST0422,48,Male,Delhi,Upper Middle
+CUST0423,52,Male,Hyderabad,Upper Middle
+CUST0424,50,Female,Pune,Middle
+CUST0425,69,Female,Lucknow,High
+CUST0426,38,Male,Bengaluru,Low
+CUST0427,49,Female,Hyderabad,Middle
+CUST0428,40,Male,Chennai,High
+CUST0429,50,Male,Pune,Middle
+CUST0430,20,Male,Delhi,Middle
+CUST0431,35,Female,Delhi,Middle
+CUST0432,42,Female,Chennai,Middle
+CUST0433,59,Female,Chennai,High
+CUST0434,48,Female,Bengaluru,Middle
+CUST0435,71,Female,Lucknow,Upper Middle
+CUST0436,20,Male,Delhi,Low
+CUST0437,57,Male,Pune,Low
+CUST0438,63,Male,Hyderabad,Low
+CUST0439,41,Male,Pune,Upper Middle
+CUST0440,67,Female,Mumbai,Middle
+CUST0441,49,Male,Mumbai,Upper Middle
+CUST0442,64,Female,Chennai,Middle
+CUST0443,39,Male,Bengaluru,High
+CUST0444,40,Female,Mumbai,Low
+CUST0445,19,Female,Delhi,Upper Middle
+CUST0446,44,Male,Pune,Upper Middle
+CUST0447,59,Male,Pune,Upper Middle
+CUST0448,19,Male,Chennai,Upper Middle
+CUST0449,43,Male,Lucknow,Upper Middle
+CUST0450,34,Female,Lucknow,Middle
+CUST0451,57,Male,Hyderabad,Low
+CUST0452,50,Male,Chennai,Low
+CUST0453,26,Female,Jaipur,High
+CUST0454,60,Male,Hyderabad,Middle
+CUST0455,71,Male,Jaipur,Upper Middle
+CUST0456,65,Male,Lucknow,Middle
+CUST0457,56,Male,Chennai,Low
+CUST0458,46,Male,Jaipur,Low
+CUST0459,59,Female,Chennai,Upper Middle
+CUST0460,72,Male,Chennai,Middle
+CUST0461,43,Male,Lucknow,Low
+CUST0462,52,Male,Hyderabad,Middle
+CUST0463,67,Male,Hyderabad,Low
+CUST0464,42,Male,Chennai,Middle
+CUST0465,41,Female,Mumbai,Middle
+CUST0466,30,Male,Bengaluru,Upper Middle
+CUST0467,24,Female,Lucknow,Middle
+CUST0468,74,Female,Bengaluru,Middle
+CUST0469,53,Male,Bengaluru,Low
+CUST0470,62,Male,Hyderabad,Low
+CUST0471,37,Male,Hyderabad,Middle
+CUST0472,18,Male,Mumbai,Middle
+CUST0473,25,Female,Bengaluru,Middle
+CUST0474,63,Male,Bengaluru,Middle
+CUST0475,33,Male,Chennai,Upper Middle
+CUST0476,31,Male,Hyderabad,Upper Middle
+CUST0477,29,Male,Bengaluru,Upper Middle
+CUST0478,68,Male,Pune,Low
+CUST0479,40,Male,Mumbai,Middle
+CUST0480,32,Female,Jaipur,Low
+CUST0481,45,Female,Pune,Low
+CUST0482,51,Male,Pune,High
+CUST0483,19,Male,Jaipur,Low
+CUST0484,49,Male,Lucknow,Middle
+CUST0485,40,Female,Lucknow,Middle
+CUST0486,39,Male,Mumbai,Upper Middle
+CUST0487,68,Female,Pune,Middle
+CUST0488,42,Male,Bengaluru,Low
+CUST0489,39,Male,Hyderabad,Middle
+CUST0490,39,Male,Mumbai,Middle
+CUST0491,66,Male,Chennai,Low
+CUST0492,69,Female,Jaipur,Middle
+CUST0493,59,Female,Pune,Low
+CUST0494,23,Male,Mumbai,Low
+CUST0495,32,Male,Delhi,Middle
+CUST0496,71,Female,Delhi,Low
+CUST0497,60,Female,Lucknow,Middle
+CUST0498,54,Female,Jaipur,Upper Middle
+CUST0499,50,Female,Hyderabad,Upper Middle
+CUST0500,25,Male,Bengaluru,Low
