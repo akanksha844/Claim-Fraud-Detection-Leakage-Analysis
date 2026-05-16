@@ -1,0 +1,7 @@
+| Layer                            | Tools Used                         |
+| -------------------------------- | ---------------------------------- |
+| Data Extraction & KPI Analysis   | SQL                                |
+| Exploratory & Advanced Analytics | Python (Pandas, NumPy, Matplotlib) |
+| Machine Learning                 | Scikit-learn Random Forest         |
+| Data Visualization               | Tableau                            |
+| Version Control                  | Git & GitHub                       |
