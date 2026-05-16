@@ -2,7 +2,7 @@
 Worked on a health insurance fraud detection problem where fraud claims were increasing claim ratio and loss ratio.
 # Health Insurance Claim Fraud Detection & Leakage Analysis
 
-An end-to-end analytics project to detect fraudulent health insurance claims, quantify financial leakage, and recommend a machine learning–driven fraud prevention strategy using **SQL, Python, Machine Learning and Tableau**.
+An end-to-end analytics project to detect fraudulent health insurance claims, quantify financial leakage, and recommend a machine learning–driven fraud prevention strategy using **SQL, Python, Machine Learning(Random Forest) and Tableau**.
 
 ---
 
